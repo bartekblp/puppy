@@ -22,18 +22,18 @@ func BigBarks() string {
 	return dog.WhenGrownUp(Barks())
 }
 
-func fromV1() {
+func FromV1() {
 	fmt.Println("I'm from v1.0.0")
 }
 
-func fromV11() {
+func FromV11() {
 	fmt.Println("I'm from v1.1.0")
 }
 
-func fromV111() {
+func FromV111() {
 	fmt.Println("I'm from v1.1.1")
 }
 
-func fromV123() {
+func FromV123() {
 	fmt.Println("I'm from v1.2.3")
 }
